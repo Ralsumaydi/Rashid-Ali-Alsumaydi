@@ -24,6 +24,7 @@
 | Gender         | Gender         | categorical   |
 
 2\Examination Feature
+
 | Feature name	    | ShortCut      | Data type|              | Description|
 | :------------ |   :---:       | --------: |
 | Systolic blood pressure	 |   Age       | Int (Days) |
