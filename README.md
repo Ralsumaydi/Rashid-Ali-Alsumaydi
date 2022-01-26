@@ -18,9 +18,9 @@
 1\Objective Feature
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
-| Age |   Age       | Int(Days) |
+| Age |   Age       | Int (Days) |
 | Height        | Height         | `Int (Cm)`   |
 | Weight         | Weight         |Float (Kg)   |
-| Gender         | Gender         | `Los Angeles`   |
+| Gender         | Gender         | categorical   |
 
 
