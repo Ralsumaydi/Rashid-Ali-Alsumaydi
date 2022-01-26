@@ -19,12 +19,12 @@
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
 | Age |              | age |
-| Height        | Height         | int (cm)
+| Height        | Height |        | int (cm)|
    |
-| Weight         | Weight         | float (kg)
+| Weight         | Weight         | float (kg)|
    |
-| Gender         | Gender         | categorical
-  |
+| Gender         | Gender         | categorical|
+  
 
 
 
