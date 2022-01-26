@@ -20,10 +20,10 @@
 | :------------ |   :---:       | --------: |
 | Age |              | age |
 | Height        | Height |        | int (cm)|
-   |
-| Weight         | Weight         | float (kg)|
-   |
-| Gender         | Gender         | categorical|
+   
+| Weight         | Weight |        | float (kg)|
+   
+| Gender|         | Gender  |       | categorical|
   
 
 
