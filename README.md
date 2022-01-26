@@ -23,7 +23,7 @@
 | Weight         | Weight         |Float (Kg)   |
 | Gender         | Gender         | categorical   |
 
-2\Examination Feature
+2\Examination Feature.
 
 | FirstName     | LastName      | City  |                      
 | :------------ |   :---:       | --------: |
