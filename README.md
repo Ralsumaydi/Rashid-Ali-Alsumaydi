@@ -23,14 +23,14 @@
 | Weight         | Weight         |Float (Kg)   |
 | Gender         | Gender         | categorical   |
 
-2\Examination Feature
+2\Examination Feature.
 
-| FirstName     | LastName      | City  |            | `NewYork`   |                 
+| FirstName     | LastName      | City  |            | `NewYork` |     .            
 | :------------ |   :---:       | --------: |
-| `John`        | Test1         | `NewYork`   |        | `NewYork`   |
-| `Bob`         | Test2         | `Los Angeles`   |      | `NewYork`   |
-| `John`        | Test1         | `NewYork`   |             | `NewYork`   |
-| `Bob`         | Test2         | `Los Angeles`   |             | `NewYork`   |
+| `John`        | Test1         | `NewYork`   |        | `NewYork` |
+| `Bob`         | Test2         | `Los Angeles`   |      | `NewYork` |
+| `John`        | Test1         | `NewYork`   |             | `NewYork` |
+| `Bob`         | Test2         | `Los Angeles`   |             | `NewYork`|
 
 
 
