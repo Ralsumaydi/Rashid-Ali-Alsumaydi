@@ -18,12 +18,10 @@
 1\Objective Feature
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
-| Age |   age      | age: |int (days)
-
-| Height        | Height         | `int (cm)`   |
-| `Weight         | Weight         | `float (kg)
-   |
-| `Gender         | Gender         | `Los Angeles`   |
-
+| Age |   age      | age: |
+| Height        | Test1         | `NewYork`   |
+| `Weight         | Test2         | `Los Angeles`   |
+| `Gender         | Test2         | `Los Angeles`   |
+l
 
 
