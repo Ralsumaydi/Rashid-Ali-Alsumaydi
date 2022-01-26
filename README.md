@@ -20,7 +20,7 @@
 | :------------ |   :---:       | --------: |
 | Age |   :---:       | --------: |
 | Height        | Test1         | `NewYork`   |
-| `Weight         | Test2         | `Los Angeles`   |
-| `Gender         | Test2         | `Los Angeles`   |
+| Weight         | Test2         | `Los Angeles`   |
+| Gender         | Test2         | `Los Angeles`   |
 
 
