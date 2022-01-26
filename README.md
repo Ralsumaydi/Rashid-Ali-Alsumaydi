@@ -18,7 +18,7 @@
 1\Objective Feature
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
-| Age |   age       | int (days)
+| Age |   | age |      | int (days)
 |
 | Height |       | Height   |      | int (cm) |
 
