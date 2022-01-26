@@ -25,11 +25,11 @@
 
 2\Examination Feature
 
-| Feature name	    | ShortCut      | Data type|              | Description|
+| Feature name	    |                       ShortCut                                  | Data type|              | Description|
 | :------------ |   :---:       | --------: |
-| Systolic blood pressure	 |   Age       | Int (Days) |
-| Diastolic blood pressure	        | Height         | `Int (Cm)`   |
-| Cholesterol	         | Weight         |Float (Kg)   |
+| Systolic blood pressure	 |               Age       |                                Int (Days) |
+| Diastolic blood pressure	                  | Height                                | `Int (Cm)`   |
+| Cholesterol	         | Weight                                                       |Float (Kg)   |
 | Glucose         | Gender         | categorical   |
 
 
