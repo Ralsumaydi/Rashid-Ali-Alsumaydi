@@ -18,7 +18,7 @@
 1\Objective Feature
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
-| Age |         | age |
+| Age |              | age |
 | Height        | Height         | `NewYork`   |
 | Weight         | Weight         | `Los Angeles`   |
 | Gender         | Gender         | `Los Angeles`   |
