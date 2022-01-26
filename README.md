@@ -19,8 +19,8 @@
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
 | Age |   :---:       | --------: |
-| Height        | Test1         | `NewYork`   |
-| Weight         | Test2         | `Los Angeles`   |
-| Gender         | Test2         | `Los Angeles`   |
+| Height        | Height         | `NewYork`   |
+| Weight         | Weight         | `Los Angeles`   |
+| Gender         | Gender         | `Los Angeles`   |
 
 
