@@ -19,7 +19,7 @@
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
 | Age |   Age       | Int(Days) |
-| Height        | Height         | `NewYork`   |
+| Height        | Height         | `Int (Cm)`   |
 | Weight         | Weight         | `Los Angeles`   |
 | Gender         | Gender         | `Los Angeles`   |
 
