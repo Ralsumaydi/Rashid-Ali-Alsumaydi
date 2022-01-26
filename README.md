@@ -25,12 +25,14 @@
 
 2\Examination Feature
 
-| Feature name	    |                       ShortCut                                  | Data type|              | Description|
+| FirstName     | LastName      | City  |
 | :------------ |   :---:       | --------: |
-| Systolic blood pressure	 |               Age       |                                Int (Days) |
-| Diastolic blood pressure	                  | Height                                | `Int (Cm)`   |
-| Cholesterol	         | Weight                                                       |Float (Kg)   |
-| Glucose         | Gender         | categorical   |
+| `John`        | Test1         | `NewYork`   |
+| `Bob`         | Test2         | `Los Angeles`   |
+| FirstName     | LastName      | City  |
+| :------------ |   :---:       | --------: |
+| `John`        | Test1         | `NewYork`   |
+| `Bob`         | Test2         | `Los Angeles`   |
 
 
 
