@@ -20,7 +20,7 @@
 | :------------ |   :---:       | --------: |
 | Age |   Age       | Int(Days) |
 | Height        | Height         | `Int (Cm)`   |
-| Weight         | Weight         | `Los Angeles`   |
+| Weight         | Weight         |Float (Kg)   |
 | Gender         | Gender         | `Los Angeles`   |
 
 
