@@ -19,9 +19,12 @@
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
 | Age |              | age |
-| Height        | Height         | `NewYork`   |
-| Weight         | Weight         | `Los Angeles`   |
-| Gender         | Gender         | `Los Angeles`   |
+| Height        | Height         | int (cm)
+   |
+| Weight         | Weight         | float (kg)
+   |
+| Gender         | Gender         | categorical
+  |
 
 
 
