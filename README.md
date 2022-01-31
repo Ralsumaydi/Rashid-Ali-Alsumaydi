@@ -25,14 +25,12 @@
 
 2\Examination Feature.
 
- 
-| Feature name	    | ShortCut      | Data type|        | Gender         | Gender         | categorical   |
-| :------------ |   :---:       | --------: |
-| Age |   Age       | Int (Days) |
-| Height        | Height         | `Int (Cm)`   |      | Gender         | Gender         | categorical   |  
-| Weight         | Weight         |Float (Kg)   |      | Gender         | Gender         | categorical   |
-| Gender         | Gender         | categorical   |    | Gender         | Gender         | categorical   |
-
+| Left-aligned | Center-aligned | Right-aligned || Right-aligned |
+| :---         |     :---:      |          ---: || Right-aligned |
+| git status   | git status     | git status    || Right-aligned |
+| git diff     | git diff       | git diff      || Right-aligned |
+| git status   | git status     | git status    || Right-aligned |
+| git diff     | git diff       | git diff      || Right-aligned |
 
 
 
