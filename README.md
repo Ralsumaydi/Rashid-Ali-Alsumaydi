@@ -25,12 +25,12 @@
 
 2\Examination Feature.
 
-| Left-aligned | Center-aligned | Right-aligned || Right-aligned |
-| :---         |     :---:      |          ---: || Right-aligned |
-| git status   | git status     | git status    || Right-aligned |
-| git diff     | git diff       | git diff      || Right-aligned |
-| git status   | git status     | git status    || Right-aligned |
-| git diff     | git diff       | git diff      || Right-aligned |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 
 
