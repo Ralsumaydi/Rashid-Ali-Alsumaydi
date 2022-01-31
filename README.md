@@ -25,12 +25,12 @@
 
 2\Examination Feature.
 
-| FirstName     | LastName      | City  |           | City  |             
+      | Feature name	    | ShortCut      | Data type|              | ShortCut      |
 | :------------ |   :---:       | --------: |
-| `John`        | Test1         | `NewYork`   |        
-| `Bob`         | Test2         | `Los Angeles`   |      
-| `John`        | Test1         | `NewYork`   |             
-| `Bob`         | Test2         | `Los Angeles`   |             
+| Age |   Age       | Int (Days) |
+| Height        | Height         | `Int (Cm)`   |
+| Weight         | Weight         |Float (Kg)   |
+| Gender         | Gender         | categorical   |      
 
 
 
