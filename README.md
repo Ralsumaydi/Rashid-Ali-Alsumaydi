@@ -28,6 +28,8 @@
       | Feature name	    | ShortCut      | Data type|              | ShortCut      |
 | :------------ |   :---:       | --------: |
 
+| Feature name	    | ShortCut      | Data type|
+| :------------ |   :---:       | --------: |
 | Age |   Age       | Int (Days) |
 | Height        | Height         | `Int (Cm)`   |
 | Weight         | Weight         |Float (Kg)   |
