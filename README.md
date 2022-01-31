@@ -30,8 +30,8 @@
 | :------------ |   :---:       | --------: |
 | Age |   Age       | Int (Days) |
 | Height        | Height         | `Int (Cm)`   |      | Gender         | Gender         | categorical   |  
-| Weight         | Weight         |Float (Kg)   || Gender         | Gender         | categorical   |
-| Gender         | Gender         | categorical   || Gender         | Gender         | categorical   |
+| Weight         | Weight         |Float (Kg)   |      | Gender         | Gender         | categorical   |
+| Gender         | Gender         | categorical   |    | Gender         | Gender         | categorical   |
 
 
 
