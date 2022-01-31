@@ -27,7 +27,7 @@
 
       | Feature name	    | ShortCut      | Data type|              | ShortCut      |
 | :------------ |   :---:       | --------: |
-| Age |   Age       | Int (Days) |
+
 | Height        | Height         | `Int (Cm)`   |                   | ShortCut      |
 | Weight         | Weight         |Float (Kg)   |                   | ShortCut      |
 | Gender         | Gender         | categorical   |                 | ShortCut      |
