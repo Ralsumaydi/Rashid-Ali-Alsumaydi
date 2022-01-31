@@ -25,15 +25,13 @@
 
 2\Examination Feature.
 
-      | Feature name	    | ShortCut      | Data type|              | ShortCut      |
-| :------------ |   :---:       | --------: |
-
-| Feature name	    | ShortCut      | Data type|
+ 
+| Feature name	    | ShortCut      | Data type|        | Gender         | Gender         | categorical   |
 | :------------ |   :---:       | --------: |
 | Age |   Age       | Int (Days) |
-| Height        | Height         | `Int (Cm)`   |
-| Weight         | Weight         |Float (Kg)   |
-| Gender         | Gender         | categorical   |
+| Height        | Height         | `Int (Cm)`   |      | Gender         | Gender         | categorical   |  
+| Weight         | Weight         |Float (Kg)   || Gender         | Gender         | categorical   |
+| Gender         | Gender         | categorical   || Gender         | Gender         | categorical   |
 
 
 
