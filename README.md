@@ -25,12 +25,16 @@
 
 2\Examination Feature.
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Default Header | Left Align | Right Align | Center Align |
+| ---            | :--        |         --: |      :-:     |
+
+| Default Header | Left Align | Right Align | Center Align |
+
+| Default Header | Left Align | Right Align | Center Align |
+
+| Default Header | Left Align | Right Align | Center Align |
+
+| Default Header | Left Align | Right Align | Center Align |
 
 
 
