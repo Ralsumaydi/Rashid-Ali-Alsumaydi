@@ -25,12 +25,12 @@
 
 2\Examination Feature.
 
-| FirstName     | LastName      | City  |            | `NewYork` |     .            
+| FirstName     | LastName      | City  |           | City  |             
 | :------------ |   :---:       | --------: |
-| `John`        | Test1         | `NewYork`   |        | `NewYork` |
-| `Bob`         | Test2         | `Los Angeles`   |      | `NewYork` |
-| `John`        | Test1         | `NewYork`   |             | `NewYork` |
-| `Bob`         | Test2         | `Los Angeles`   |             | `NewYork`|
+| `John`        | Test1         | `NewYork`   |        
+| `Bob`         | Test2         | `Los Angeles`   |      
+| `John`        | Test1         | `NewYork`   |             
+| `Bob`         | Test2         | `Los Angeles`   |             
 
 
 
