@@ -17,8 +17,8 @@
 
 3.Subjective: information was given by the patient
 
-# Columns description
-1\Objective Feature
+## Columns description
+1.Objective Feature
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
 | Age |   Age       | Int (Days) |
@@ -26,7 +26,7 @@
 | Weight         | Weight         |Float (Kg)   |
 | Gender         | Gender         | categorical   |
 
-2\Examination Feature.
+2.Examination Feature.
 | Feature name	 | ShortCut | Data type	 |Description |
 | --- | :-- | --: | :-: |
 | Systolic blood pressure | ap_hi | int |-|
@@ -34,7 +34,7 @@
 | Cholesterol | cholesterol | int| 1: normal, 2: above normal, 3: well above normal|
 |Glucose | gluc| int | 1: normal, 2: above normal, 3: well above normal |
  
- 3\Subjective Feature
+ 3.Subjective Feature
  | Feature name	 | ShortCut | Data type	 |Description |
 | --- | :-- | --: | :-: |
 | Smoking | smoke | binary |-|
@@ -45,27 +45,27 @@
 # Question
 * The goal is to do exploratory data analysis (EDA) to answer these questions :
 
-1-What is the most gender is exposed to be Cardiovascular Disease that has?
+1.What is the most gender is exposed to be Cardiovascular Disease that has?
 
-2-Is there a relationship between smoking and getting Cardiovascular Disease?
+2.Is there a relationship between smoking and getting Cardiovascular Disease?
 
-3-Is there a relationship between age and getting Cardiovascular Disease?
+3.Is there a relationship between age and getting Cardiovascular Disease?
 
-4-what is the age that has the most patient number of Cardiovascular Disease?
+4.what is the age that has the most patient number of Cardiovascular Disease?
 
-5-How many Smokers and Non-Smokers do not have a Cardiovascular Disease?
+5.How many Smokers and Non-Smokers do not have a Cardiovascular Disease?
 
-6-How many Smokers and Non-Smokers have a Cardiovascular Disease?
+6.How many Smokers and Non-Smokers have a Cardiovascular Disease?
 
-7-Is their a relationship between doing physical activity and not having a Cardiovascular Disease?
+7.Is their a relationship between doing physical activity and not having a Cardiovascular Disease?
 
-8-Is there a relationship between being overweight and having Cardiovascular Disease?
+8.Is there a relationship between being overweight and having Cardiovascular Disease?
 
-9-How many cholesterol patients have a Cardiovascular and at what level they are?
+9.How many cholesterol patients have a Cardiovascular and at what level they are?
 
-10-What is the cholesterol level that has a large number of Cardiovascular Disease?
+10.What is the cholesterol level that has a large number of Cardiovascular Disease?
 
-11-How many alcoholics are Cardiovascular Disease?
+11.How many alcoholics are Cardiovascular Disease?
 
 # Tools:
 *Libraries: pandas, numpy, matplotlib, geopandas, geopy, plotly_express .
