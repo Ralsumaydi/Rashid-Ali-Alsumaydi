@@ -36,8 +36,8 @@
 | --- | :-- | --: | :-: |
 | Smoking | smoke | binary |-|
 | Alcohol intake	 | alco | binary |-|
-| Physical activity	 | active | int| 1: normal, 2: above normal, 3: well above normal|
-|Presence or absence of cardiovascular disease | cardio| int | 1: normal, 2: above normal, 3: well above normal |
+| Physical activity	 | active | binary| 1: normal, 2: above normal, 3: well above normal|
+|Presence or absence of cardiovascular disease | cardio| binary | 1: normal, 2: above normal, 3: well above normal |
  
 
 
