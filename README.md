@@ -8,7 +8,7 @@
  #Kaggle.com :
  To download the dataset Click_here https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
  # Columns description:
- ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+ ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
  # There are 3 types of input columns:
 1\ Objective: factual information ,
 2\ Examination: results of medical examination;
