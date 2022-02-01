@@ -30,6 +30,15 @@
 | Diastolic blood pressure	| ap_lo| int |-|
 | Cholesterol | cholesterol | int| 1: normal, 2: above normal, 3: well above normal|
 |Glucose | gluc| int | 1: normal, 2: above normal, 3: well above normal |
+ 
+ 3\Subjective Feature
+ | Feature name	 | ShortCut | Data type	 |Description |
+| --- | :-- | --: | :-: |
+| Smoking | ap_hi | int |-|
+| Alcohol intake	| ap_lo| int |-|
+| Physical activity	 | cholesterol | int| 1: normal, 2: above normal, 3: well above normal|
+|Presence or absence of cardiovascular disease | gluc| int | 1: normal, 2: above normal, 3: well above normal |
+ 
 
 
 
