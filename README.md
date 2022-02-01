@@ -26,8 +26,8 @@
 2\Examination Feature.
 | Feature name	 | ShortCut | Data type	 |Description |
 | --- | :-- | --: | :-: |
-| Default Header | Left Align | Right Align | Center Align |
-| Default Header | Left Align | Right Align | Center Align |
+| Systolic blood pressure | ap_hi | int | |
+| Diastolic blood pressure	| ap_lo| int | |
 | Default Header | Left Align | Right Align | Center Align |
 | Default Header | Left Align | Right Align | Center Align |
 
