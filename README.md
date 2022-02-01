@@ -24,7 +24,7 @@
 | Gender         | Gender         | categorical   |
 
 2\Examination Feature.
-| Default Header | Left Align | Right Align | Center Align |
+| Feature name	 | ShortCut | Data type	 |Description |
 | --- | :-- | --: | :-: |
 | Default Header | Left Align | Right Align | Center Align |
 | Default Header | Left Align | Right Align | Center Align |
