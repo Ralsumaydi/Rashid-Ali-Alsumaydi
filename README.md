@@ -1,15 +1,14 @@
  #  Cardiovascular Disease Analysis
- ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+ ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
  # Data Overview:
  
  All the values in the dataset were collected at the time of medical examination and provided information about the signs of Cardiovascular Disease. This Dataset has 70,000 observations(rows) and 12 features(columns).
  
  #Source:
- ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
  #Kaggle.com :
  To download the dataset Click_here https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
  # Columns description:
- ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+ ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
  # There are 3 types of input columns:
 1\ Objective: factual information ,
 2\ Examination: results of medical examination;
