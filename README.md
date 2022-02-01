@@ -18,7 +18,7 @@
 3. Subjective: information was given by the patient
 
 ## Columns description
-1.Objective Feature
+1. Objective Feature
 | Feature name	    | ShortCut      | Data type|
 | :------------ |   :---:       | --------: |
 | Age |   Age       | Int (Days) |
@@ -26,7 +26,7 @@
 | Weight         | Weight         |Float (Kg)   |
 | Gender         | Gender         | categorical   |
 
-2.Examination Feature.
+2. Examination Feature.
 | Feature name	 | ShortCut | Data type	 |Description |
 | --- | :-- | --: | :-: |
 | Systolic blood pressure | ap_hi | int |-|
@@ -34,7 +34,7 @@
 | Cholesterol | cholesterol | int| 1: normal, 2: above normal, 3: well above normal|
 |Glucose | gluc| int | 1: normal, 2: above normal, 3: well above normal |
  
- 3.Subjective Feature
+ 3. Subjective Feature
  | Feature name	 | ShortCut | Data type	 |Description |
 | --- | :-- | --: | :-: |
 | Smoking | smoke | binary |-|
