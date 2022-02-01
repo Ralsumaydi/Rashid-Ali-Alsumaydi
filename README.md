@@ -28,8 +28,8 @@
 | --- | :-- | --: | :-: |
 | Systolic blood pressure | ap_hi | int | |
 | Diastolic blood pressure	| ap_lo| int | |
-| Default Header | Left Align | Right Align | Center Align |
-| Default Header | Left Align | Right Align | Center Align |
+| Cholesterol | cholesterol | int| 1: normal, 2: above normal, 3: well above normal|
+|Glucose | gluc| int | 1: normal, 2: above normal, 3: well above normal |
 
 
 
