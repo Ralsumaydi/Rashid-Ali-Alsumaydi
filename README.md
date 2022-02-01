@@ -35,7 +35,7 @@
  | Feature name	 | ShortCut | Data type	 |Description |
 | --- | :-- | --: | :-: |
 | Smoking | smoke | binary |-|
-| Alcohol intake	| alco binary |-|
+| Alcohol intake	 | alco | binary |-|
 | Physical activity	 | active | int| 1: normal, 2: above normal, 3: well above normal|
 |Presence or absence of cardiovascular disease | cardio| int | 1: normal, 2: above normal, 3: well above normal |
  
