@@ -11,9 +11,12 @@
  # Columns description:
 
  # There are 3 types of input columns:
-1\ Objective: factual information ,
-2\ Examination: results of medical examination;
-3\ Subjective: information was given by the patient.
+1\ Objective: factual information 
+
+2\ Examination: results of medical examination
+
+3\ Subjective: information was given by the patient
+
 # Columns description
 1\Objective Feature
 | Feature name	    | ShortCut      | Data type|
