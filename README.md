@@ -66,9 +66,9 @@
 11-How many alcoholics are Cardiovascular Disease?
 
 # Tools:
-*Libraries: pandas, numpy, matplotlib, geopandas, geopy, plotly_express
+*Libraries: pandas, numpy, matplotlib, geopandas, geopy, plotly_express .
 
-*Softwares: VSCode, Jupyter, GitHub
+*Softwares: VSCode, Jupyter, GitHub .
 
 
 
