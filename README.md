@@ -41,6 +41,7 @@
 
 # Question
  * The goal is to do exploratory data analysis (EDA) to answer these questions :
+
 1-What is the most gender is exposed to be Cardiovascular Disease that has?
 
 2-Is there a relationship between smoking and getting Cardiovascular Disease?
