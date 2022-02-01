@@ -39,7 +39,7 @@
 | Physical activity	 | active | binary|-|
 |Presence or absence of cardiovascular disease | cardio| binary | Target Variable |
 
-#Question
+# Question
  
 
 
