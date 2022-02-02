@@ -29,9 +29,9 @@
 2.Examination Feature.
 | Feature name	 | ShortCut | Data type	 |Description |
 | --- | :-- | --: | :-: |
-| Systolic blood pressure | ap_hi | int |-|
-| Diastolic blood pressure	| ap_lo| int |-|
-| Cholesterol | cholesterol | int| 1: normal, 2: above normal, 3: well above normal|
+| Systolic blood pressure | ap_hi |int |-|
+| Diastolic blood pressure	| ap_lo|int |-|
+| Cholesterol | cholesterol |int| 1: normal, 2: above normal, 3: well above normal|
 |Glucose | gluc| int | 1: normal, 2: above normal, 3: well above normal |
  
  3.Subjective Feature
